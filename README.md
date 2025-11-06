@@ -1,4 +1,4 @@
-# Server-Client-TCP
+# RPG-Client-TCP
 
 mvn clean install
 Run on Main method to initialize the server at localhost.
